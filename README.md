@@ -1,53 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menüplan</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-        img.logo {
-            width: 200px;
-            margin-top: 20px;
-        }
-        #uhrzeit {
-            font-size: 20px;
-            margin-top: 10px;
-            color: #555;
-        }
-        table {
-            width: 100%;
-            max-width: 800px;
-            margin: 0 auto;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 15px;
-            border: 1px solid #ddd;
-            text-align: center;
-        }
-        th {
-            background-color: #007BFF;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-    </style>
-</head>
-<body>
 
 <header>
-    <img src="btc_jost_logo.png" alt="BTC.jost AG Logo" class="logo">
     <h1>BTC.jost AG - Wochen-Menüplan</h1>
     <p>Gültig vom 04.03.2025 bis 10.03.2025</p>
     <div id="uhrzeit">Aktuelle Uhrzeit: --:--:--</div>
@@ -103,18 +57,6 @@
         <td>Schweinsbraten mit Knödeln</td>
     </tr>
 </table>
-
-<script>
-    function updateUhrzeit() {
-        const jetzt = new Date();
-        const stunden = jetzt.getHours().toString().padStart(2, '0');
-        const minuten = jetzt.getMinutes().toString().padStart(2, '0');
-        const sekunden = jetzt.getSeconds().toString().padStart(2, '0');
-        document.getElementById('uhrzeit').textContent = `Aktuelle Uhrzeit: ${stunden}:${minuten}:${sekunden}`;
-    }
-    setInterval(updateUhrzeit, 1000);
-    updateUhrzeit();
-</script>
 
 </body>
 </html>
