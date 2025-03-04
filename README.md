@@ -2,8 +2,7 @@
 <html lang="de">
 
 <header>
-    <h1>BTC.jost AG - Wochen-Menüplan</h1>
-    <p>Gültig vom 04.03.2025 bis 10.03.2025</p>
+    <h1>Wochen-Menüplan</h1>
     <div id="uhrzeit">Aktuelle Uhrzeit: --:--:--</div>
 </header>
 
