@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="de">
-
 <header>
     <h1>Wochen-Menüplan</h1>
     <div id="uhrzeit">Aktuelle Uhrzeit: --:--:--</div>
@@ -57,5 +54,4 @@
     </tr>
 </table>
 
-</body>
 </html>
