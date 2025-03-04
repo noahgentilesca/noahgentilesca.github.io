@@ -53,5 +53,3 @@
         <td>Schweinsbraten mit Knödeln</td>
     </tr>
 </table>
-
-</html>
