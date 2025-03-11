@@ -5,50 +5,42 @@
 <table>
     <tr>
         <th>Tag</th>
-        <th>Datum</th>
-        <th>Uhrzeit</th>
-        <th>Menü</th>
+        <th>Mittagessen</th>
+        <th>Abendessen</th>
     </tr>
     <tr>
         <td>Montag</td>
-        <td>04.03.2025</td>
-        <td>12:00 - 13:00</td>
         <td>Spaghetti Bolognese mit Salat</td>
+        <td>Gemüsesuppe mit Brot</td>
     </tr>
     <tr>
         <td>Dienstag</td>
-        <td>05.03.2025</td>
-        <td>12:00 - 13:00</td>
         <td>Schnitzel mit Pommes und Gemüse</td>
+        <td>Rührei mit Spinat</td>
     </tr>
     <tr>
         <td>Mittwoch</td>
-        <td>06.03.2025</td>
-        <td>12:00 - 13:00</td>
         <td>Gemüsecurry mit Reis</td>
+        <td>Sandwich mit Käse und Schinken</td>
     </tr>
     <tr>
         <td>Donnerstag</td>
-        <td>07.03.2025</td>
-        <td>12:00 - 13:00</td>
         <td>Pizza Margherita</td>
+        <td>Salat mit Hähnchenstreifen</td>
     </tr>
     <tr>
         <td>Freitag</td>
-        <td>08.03.2025</td>
-        <td>12:00 - 13:00</td>
         <td>Fischstäbchen mit Kartoffelpüree</td>
+        <td>Gnocchi mit Tomatensauce</td>
     </tr>
     <tr>
         <td>Samstag</td>
-        <td>09.03.2025</td>
-        <td>12:00 - 13:00</td>
         <td>Chickenburger mit Pommes</td>
+        <td>Grillgemüse mit Quinoa</td>
     </tr>
     <tr>
         <td>Sonntag</td>
-        <td>10.03.2025</td>
-        <td>12:00 - 13:00</td>
         <td>Schweinsbraten mit Knödeln</td>
+        <td>Kartoffelsuppe mit Würstchen</td>
     </tr>
 </table>
