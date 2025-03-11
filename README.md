@@ -1,6 +1,5 @@
 <header>
     <h1>Wochen-Menüplan</h1>
-    <div id="uhrzeit">Aktuelle Uhrzeit: --:--:--</div>
 </header>
 
 <table>
